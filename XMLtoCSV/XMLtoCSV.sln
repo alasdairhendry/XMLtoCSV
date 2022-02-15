@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLtoCSV", "XMLtoCSV\XMLtoCSV.csproj", "{EB7A4CEF-1227-4D9E-A183-1D2FCB937C8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB7A4CEF-1227-4D9E-A183-1D2FCB937C8F}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{EB7A4CEF-1227-4D9E-A183-1D2FCB937C8F}.Debug|anycpu.Build.0 = Debug|anycpu
+		{EB7A4CEF-1227-4D9E-A183-1D2FCB937C8F}.Release|anycpu.ActiveCfg = Release|anycpu
+		{EB7A4CEF-1227-4D9E-A183-1D2FCB937C8F}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+/Users/alasdairhendry/Documents/GitHub/XMLtoCSV/XMLtoCSV/bin/Debug/XMLtoCSV.exe
+/Users/alasdairhendry/Documents/GitHub/XMLtoCSV/XMLtoCSV/bin/Debug/XMLtoCSV.pdb
+/Users/alasdairhendry/Documents/GitHub/XMLtoCSV/XMLtoCSV/obj/Debug/XMLtoCSV.csproj.CoreCompileInputs.cache
+/Users/alasdairhendry/Documents/GitHub/XMLtoCSV/XMLtoCSV/obj/Debug/XMLtoCSV.exe
+/Users/alasdairhendry/Documents/GitHub/XMLtoCSV/XMLtoCSV/obj/Debug/XMLtoCSV.pdb
+/Users/alasdairhendry/Documents/GitHub/XMLtoCSV/XMLtoCSV/obj/Debug/XMLtoCSV.csprojAssemblyReference.cache

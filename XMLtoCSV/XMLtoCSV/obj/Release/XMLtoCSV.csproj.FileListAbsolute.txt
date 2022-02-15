@@ -1,0 +1,3 @@
+/Users/alasdairhendry/Documents/GitHub/XMLtoCSV/XMLtoCSV/bin/Release/XMLtoCSV.exe
+/Users/alasdairhendry/Documents/GitHub/XMLtoCSV/XMLtoCSV/obj/Release/XMLtoCSV.csproj.CoreCompileInputs.cache
+/Users/alasdairhendry/Documents/GitHub/XMLtoCSV/XMLtoCSV/obj/Release/XMLtoCSV.exe
